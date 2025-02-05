@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 And I hold within my hand
 Of a surf-tormented shore,
 But a dream within a dream?How few! yet how they creep
@@ -19,3 +20,19 @@ That my days have been a dream;
 Is all that we see or seem
 All that we see or seem
 In a vision, or in none,
+=======
+Grains of the golden sand--
+Yet if hope has flown away
+Take this kiss upon the brow!
+While I weep--while I weep!
+Is but a dream within a dream.
+Thus much let me avow--
+I stand amid the roar
+O God! can I not save
+Take this kiss upon the brow!
+Is but a dream within a dream.
+And I hold within my hand
+Yet if hope has flown away
+Is it therefore the less gone?
+All that we see or seem
+>>>>>>> Stashed changes
